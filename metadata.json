@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A modern, professional, fully responsive scientific calculator with light and dark modes, calculation history, memory functions, and keyboard support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
